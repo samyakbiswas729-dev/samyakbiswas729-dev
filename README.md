@@ -28,6 +28,7 @@
 
 ## 🚀 Skills
 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin)
@@ -47,6 +48,20 @@
 - SentinelNET- AI Powered NIDS
 - Medipath- Healthcare Platform
 - FinSight AI- AI for Indian Investors
+
+  <p align="center">
+  <a href="https://linkedin.com/in/codewithsam2005">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:biswassamyak729@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
 
 ---
 
