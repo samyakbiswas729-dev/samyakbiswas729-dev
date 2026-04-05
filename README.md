@@ -2,7 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak;AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist+🚀" />
 </h1>
 
-# Hi 👋, I'm Samyak
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist;Building+MatRisk+AI&center=true&width=500&height=50">
 </p>
@@ -17,11 +23,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samyakbiswas729-dev/samyakbiswas729-dev/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -38,7 +39,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,tensorflow,mysql,git,github" />
 </p>
----
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
 
 ## 🚀 Skills
@@ -54,7 +56,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project%20Management-0078D4?style=for-the-badge)
 
----
+
 
 ## 🔥 Projects
 - MatRisk AI 🤖  
@@ -83,10 +85,15 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
 </p>
 
----
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/codewithsam2005/
-- Email: biswassamyak729@gmail.com
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/codewithsam2005">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:biswassamyak729@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
