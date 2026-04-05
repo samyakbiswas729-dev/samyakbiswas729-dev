@@ -1,18 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak;AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist+🚀" />
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak;Initializing+JARVIS...;AI+%7C+Blockchain+Developer" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="700"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist;Building+MatRisk+AI&center=true&width=500&height=50">
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
 
 ## 🧠 About Me
