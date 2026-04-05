@@ -1,12 +1,26 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak;AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist+🚀" />
+</h1>
+
 # Hi 👋, I'm Samyak
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist;Building+MatRisk+AI&center=true&width=500&height=50">
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
+
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+CSE+(AI+%26+ML)+Student;Blockchain+Intern+@+NIT+Jamshedpur;Cybersecurity+Intern+@+Infosys;Building+AI+%2B+Blockchain+Solutions;Hackathon+Finalist+(Top+500%2B)&center=true&width=700&height=50&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&width=900&lines=🎓+B.Tech+CSE+(AI+%26+ML)+Student;💼+Blockchain+Intern+@+NIT+Jamshedpur;🔐+Cybersecurity+Intern+@+Infosys;🚀+Building+AI+%2B+Blockchain+Solutions;🏆+Hackathon+Finalist+(Top+500%2B)" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samyakbiswas729-dev/samyakbiswas729-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📊 GitHub Stats
@@ -25,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,tensorflow,mysql,git,github" />
 </p>
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
 
 ## 🚀 Skills
 
@@ -58,6 +73,11 @@
   </a>
 </p>
 
+## 🚀 Featured Project
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
@@ -68,3 +88,5 @@
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/codewithsam2005/
 - Email: biswassamyak729@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=header"/>
