@@ -1,4 +1,7 @@
 # Hi 👋, I'm Samyak
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+Blockchain+Developer;Cybersecurity+Enthusiast;Hackathon+Finalist;Building+MatRisk+AI&center=true&width=500&height=50">
+</p>
 
 🎓 B.Tech CSE (AI & ML) Student  
 💼 Blockchain Intern @ NIT Jamshedpur  
