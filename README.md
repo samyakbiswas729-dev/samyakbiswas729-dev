@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samyak;Initializing+JARVIS...;AI+%7C+Blockchain+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+SYSTEM+BOOTING...;JARVIS+ONLINE;Hi+👋,+I'm+Samyak;AI+%7C+Blockchain+Developer" />
 </h1>
 
 <p align="center">
