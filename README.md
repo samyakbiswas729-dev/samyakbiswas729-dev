@@ -70,26 +70,6 @@
   </a>
 </p>
 
-## Project Analytics
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1500&pause=800&color=00F7FF&center=true&width=900&lines=Analyzing+Tech+Stack...;Generating+Project+Insights...;JARVIS+Dashboard+Online" />
-</p>
-
----
-
-### 🤖 MatRisk AI
-```diff
-+ Language: Python
-+ Framework: Streamlit
-+ Domain: Machine Learning
-+ Status: ACTIVE
-
-### Blockchain Audit System
-+ Language: Java
-+ Tech: Blockchain
-+ Domain: Audit Trail
-+ Status: DEPLOYED
 
 
 
