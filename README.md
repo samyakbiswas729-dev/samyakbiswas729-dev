@@ -55,12 +55,31 @@
 
 
 ## 🔥 Projects
-- MatRisk AI 🤖  
-- Blockchain Audit System  
-- Streamlit Apps
-- SentinelNET- AI Powered NIDS
-- Medipath- Healthcare Platform
-- FinSight AI- AI for Indian Investors
+
+<p align="center">
+
+<a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/samyakbiswas729-dev/Blockchain-Audit-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Blockchain-Audit-System&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/samyakbiswas729-dev/SentinelNET">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=SentinelNET&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/samyakbiswas729-dev/Medipath">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Medipath&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/samyakbiswas729-dev/FinSight-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=FinSight-AI&theme=tokyonight" />
+</a>
+
+</p>
+
 
   <p align="center">
   <a href="https://linkedin.com/in/codewithsam2005">
@@ -74,11 +93,17 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
+  <a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  🤖 <b>MatRisk AI</b> — AI-powered financial risk analysis system  
+  <br>
+  📊 Built using Machine Learning + Streamlit  
+  <br>
+  🚀 Helps investors make data-driven decisions  
 </p>
 
 
