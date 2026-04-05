@@ -56,28 +56,10 @@
 
 ## 🔥 Projects
 
+## 🔥 Projects
+
 <p align="center">
-
-<a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/samyakbiswas729-dev/Blockchain-Audit-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Blockchain-Audit-System&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/samyakbiswas729-dev/SentinelNET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=SentinelNET&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/samyakbiswas729-dev/Medipath">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Medipath&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/samyakbiswas729-dev/FinSight-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=FinSight-AI&theme=tokyonight&hide_border=true" />
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Scanning+Projects...;🤖+MatRisk+AI+%7C+AI+Risk+Analysis;🔗+Blockchain+Audit+System;🛡️+SentinelNET+%7C+AI+NIDS;🏥+Medipath+%7C+Healthcare;📈+FinSight+AI+%7C+Investments;✔+All+Systems+Operational" />
 </p>
 
 
