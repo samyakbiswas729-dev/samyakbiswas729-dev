@@ -59,23 +59,23 @@
 <p align="center">
 
 <a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/samyakbiswas729-dev/Blockchain-Audit-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Blockchain-Audit-System&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Blockchain-Audit-System&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/samyakbiswas729-dev/SentinelNET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=SentinelNET&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=SentinelNET&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/samyakbiswas729-dev/Medipath">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Medipath&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=Medipath&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/samyakbiswas729-dev/FinSight-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=FinSight-AI&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=FinSight-AI&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
@@ -90,20 +90,6 @@
   </a>
 </p>
 
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  🤖 <b>MatRisk AI</b><br>
-  AI-powered financial risk analysis system<br>
-  📊 Machine Learning + Streamlit<br>
-  🚀 Data-driven investment decisions
-</p>
 
 ## 🌐 Connect With Me
 
