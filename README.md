@@ -94,18 +94,16 @@
 
 <p align="center">
   <a href="https://github.com/samyakbiswas729-dev/MatRisk-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samyakbiswas729-dev&repo=MatRisk-AI&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  🤖 <b>MatRisk AI</b> — AI-powered financial risk analysis system  
-  <br>
-  📊 Built using Machine Learning + Streamlit  
-  <br>
-  🚀 Helps investors make data-driven decisions  
+  🤖 <b>MatRisk AI</b><br>
+  AI-powered financial risk analysis system<br>
+  📊 Machine Learning + Streamlit<br>
+  🚀 Data-driven investment decisions
 </p>
-
 
 ## 🌐 Connect With Me
 
