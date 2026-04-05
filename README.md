@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Samyak
 
-<!--
-**samyakbiswas729-dev/samyakbiswas729-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+💼 Blockchain Intern @ NIT Jamshedpur  
+🔐 Cybersecurity Intern @ Infosys Springboard  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Java  
+- Python  
+- Blockchain  
+- Artificial Intelligence and Machine Learning  
+- Streamlit
+- SQL
+- Data Analytics
+- Project Management
+
+---
+
+## 🔥 Projects
+- MatRisk AI 🤖  
+- Blockchain Audit System  
+- Streamlit Apps
+- SentinelNET- AI Powered NIDS
+- Medipath- Healthcare Platform
+- FinSight AI- AI for Indian Investors
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/codewithsam2005/
+- Email: biswassamyak729@gmail.com
