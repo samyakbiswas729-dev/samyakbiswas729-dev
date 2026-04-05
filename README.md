@@ -18,7 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/samyakbiswas729-dev/samyakbiswas729-dev/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
