@@ -56,8 +56,6 @@
 
 ## 🔥 Projects
 
-## 🔥 Projects
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Scanning+Projects...;🤖+MatRisk+AI+%7C+AI+Risk+Analysis;🔗+Blockchain+Audit+System;🛡️+SentinelNET+%7C+AI+NIDS;🏥+Medipath+%7C+Healthcare;📈+FinSight+AI+%7C+Investments;✔+All+Systems+Operational" />
 </p>
@@ -71,6 +69,28 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+## Project Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1500&pause=800&color=00F7FF&center=true&width=900&lines=Analyzing+Tech+Stack...;Generating+Project+Insights...;JARVIS+Dashboard+Online" />
+</p>
+
+---
+
+### 🤖 MatRisk AI
+```diff
++ Language: Python
++ Framework: Streamlit
++ Domain: Machine Learning
++ Status: ACTIVE
+
+### Blockchain Audit System
++ Language: Java
++ Tech: Blockchain
++ Domain: Audit Trail
++ Status: DEPLOYED
+
 
 
 ## 🌐 Connect With Me
