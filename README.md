@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />](https://github-readme-stats.vercel.app/api?username=samyakbiswas729-dev)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakbiswas729-dev&theme=tokyonight" />](https://github-readme-stats.vercel.app/api?username=samyakbiswas729-dev)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakbiswas729-dev&show_icons=true&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakbiswas729-dev&theme=tokyonight" />]
 </p>
 
 <p align="center">
