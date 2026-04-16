@@ -22,14 +22,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakbiswas729-dev&show_icons=true&theme=radical)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakbiswas729-dev&theme=tokyonight" />]
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyakbiswas729-dev&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=samyakbiswas729-dev&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakbiswas729-dev&layout=compact&theme=radical&hide_border=true)
 
 
 <p align="center">
